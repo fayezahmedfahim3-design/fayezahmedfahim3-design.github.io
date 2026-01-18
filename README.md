@@ -1,2 +1,79 @@
-# fayezahmedfahim3-design.github.io
-Personal portfolio website of Fayez Ahmed – IT Support Technician
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fayez Ahmed | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      text-align: center;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 40px 20px;
+    }
+    section {
+      padding: 30px;
+    }
+    .card {
+      background: #fff;
+      margin: 15px auto;
+      padding: 20px;
+      max-width: 600px;
+      border-radius: 8px;
+    }
+    footer {
+      background: #111;
+      color: #fff;
+      padding: 15px;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Fayez Ahmed</h1>
+  <p>IT Support Technician</p>
+</header>
+
+<section class="card">
+  <h2>About Me</h2>
+  <p>
+    I am an IT Support Technician with experience in PC setup,
+    troubleshooting, Microsoft Office support, and basic graphic design.
+    I am passionate about technology and continuous learning.
+  </p>
+</section>
+
+<section class="card">
+  <h2>Skills</h2>
+  <p>
+    ✔ PC Troubleshooting<br>
+    ✔ Microsoft Word, Excel, PowerPoint<br>
+    ✔ IT Support<br>
+    ✔ Fast Typing (100+ WPM)<br>
+    ✔ Basic Graphic Design
+  </p>
+</section>
+
+<section class="card">
+  <h2>Contact</h2>
+  <p>
+    Email: fayezahmedfahim3@gmail.com<br>
+    Location: Cambodia
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Fayez Ahmed</p>
+</footer>
+
+</body>
+</html>
